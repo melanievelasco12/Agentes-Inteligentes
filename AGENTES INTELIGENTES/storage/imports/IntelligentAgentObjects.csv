@@ -1,0 +1,3 @@
+﻿AgentId,OrgUnitId,AgentName,Description,Enabled,SpecificRoles,LoginConditionEnabled,LoginConditionThreshold,LoginConditionType,AccessConditionEnabled,AccessConditionThreshold,AccessConditionType,ResultId,RepeatType,EmailWhenSatisfied,EnableSchedule,ScheduleType,ScheduleRepeatsEvery,StartDate,EndDate,LastModified,LastModifiedBy,IsDeleted
+2363,16059,Recordatorio (30 días),,TRUE,110,FALSE,,HasNotLoggedIn,TRUE,30,HasNotAccessedCourse,0,EveryTime,TRUE,TRUE,Monthly,1,2026-08-31T05:00:00.000Z,2026-10-25T05:00:00.000Z,2026-09-24T15:37:36.187Z,3042,FALSE
+2364,16059,Recordatorio (8 días),,TRUE,110,FALSE,,HasNotLoggedIn,TRUE,8,HasNotAccessedCourse,0,EveryTime,TRUE,TRUE,Weekly,1,2026-08-31T05:00:00.000Z,2026-10-25T05:00:00.000Z,2026-09-24T18:39:12.613Z,3042,FALSE
